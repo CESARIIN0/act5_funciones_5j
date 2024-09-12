@@ -2,9 +2,13 @@
 ejemplos de uso de funciones w3shool
 ## ejemplos de funciones
 --codigo
-![image](https://github.com/user-attachments/assets/0f9fc800-da49-4948-ba6e-e4c54c556b3e)
-![image](https://github.com/user-attachments/assets/97f5f5e3-82ec-4ef6-8911-b68337de4a66)
+![image](https://github.com/user-attachments/assets/4f55bbe0-4a99-4e1b-940e-9a5cbc630c97)
+![image](https://github.com/user-attachments/assets/f3f8f586-9c25-4441-9ac9-8f338c3c54f7)
+![image](https://github.com/user-attachments/assets/aea7a591-4fcb-451b-ae93-4b2fcaa17ac0)
+
+
 --resultado
-![image](https://github.com/user-attachments/assets/95deb0cd-8de2-4ffd-9862-f37103423123)
+![image](https://github.com/user-attachments/assets/edcf7b8e-64af-4bbf-841e-3c8c71c7d9d2)
+![image](https://github.com/user-attachments/assets/8de5e5f9-d2fd-4cf3-a20c-7e944997e726)
 
 
